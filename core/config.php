@@ -7,5 +7,5 @@ define("USER","user");
 //Пароль
 define("PASS","test");
 //имя базы данных
-define("DB","myDb");
+define("DB","db");
 ?>
