@@ -1,7 +1,7 @@
 <?php
 
 //Хост
-define("HOST","localhost");
+define("HOST","127.0.0.1");
 //Имя пользователя
 define("USER","user");
 //Пароль
