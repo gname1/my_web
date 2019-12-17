@@ -1,7 +1,7 @@
 <?php
 
 //Хост
-define("HOST","db");
+define("HOST","localhost");
 //Имя пользователя
 define("USER","user");
 //Пароль
